@@ -1,0 +1,55 @@
+body, html{
+        height: 100%;
+        margin: 0%;
+        font-size: 16px;
+        font-family: 'Lato', sans-serif;
+        font-weight: 400;
+        line-height: 1.8cm;
+        color: #666;
+    }
+
+   
+
+    section{
+        text-align: center;
+        padding: 50px 80px;
+    }
+
+    .section-light{
+
+        background: whitesmoke;
+        color: #666;
+    }
+
+    .section-dark{
+background: rgb(128, 128, 128);
+color: #dddddd;
+    }
+
+
+.logo{
+    text-align: center;
+    color: #000000;
+}
+
+
+.clc{
+    color: red;
+}
+button{
+    color: rebeccapurple;
+}
+   
+    h1{
+        background-color: gray;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        display: grid;
+        color: white;
+    }
+
+
+   
+
+    
+   
